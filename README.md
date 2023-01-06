@@ -1,5 +1,5 @@
 [![Version](https://img.shields.io/badge/Rimworld-1.4-green.svg)](http://rimworldgame.com/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-CorpseInfo)](https://github.com/angelolocritani/Rimworld-Rimworld-CorpseInfo/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-CorpseInfo)](https://github.com/angelolocritani/Rimworld-CorpseInfo/releases/latest)
 # Corpse info
 
 ![Rimworld-CorpseInfoPreview](https://i.imgur.com/lPTIF7l.png)
