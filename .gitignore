@@ -396,5 +396,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-Source/1.4/Assemblies/0Harmony.dll
 ZipFiles/
+1.4/Assemblies/0Harmony.dll
