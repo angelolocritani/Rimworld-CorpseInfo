@@ -7,6 +7,8 @@
 
 A mod that adds a link to deceased pawn in order to access their info card even after death
 
+Because it always annoyed me I cannot access the "Records" tab after pawns' death...
+
 ---
 
 [![Steam download](https://img.shields.io/steam/downloads/2913588675?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913588675)
