@@ -2,11 +2,11 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/angelolocritani/Rimworld-CorpseInfo)](https://github.com/angelolocritani/Rimworld-Rimworld-CorpseInfo/releases/latest)
 # Corpse info
 
- A mod that makes dead pawns' information still accesible after their death
-
 ![Rimworld-CorpseInfoPreview](https://i.imgur.com/lPTIF7l.png)
 
+
 A mod that adds a link to deceased pawn in order to access their info card even after death
+
 ---
 
 [![Steam download](https://img.shields.io/steam/downloads/2913588675?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2913588675)
