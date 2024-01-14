@@ -7,7 +7,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 	</supportedVersions>
-	<description>Add a link to deceased pawn in order to access their info card even after death.</description>
+	<description>Add a link to deceased pawn in order to access their info card even after death. Also adds the "Contents" tab to grave.</description>
 	<modDependencies>
 		<li>
 			<packageId>brrainz.harmony</packageId>

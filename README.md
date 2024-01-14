@@ -7,6 +7,8 @@
 
 A mod that adds a link to deceased pawn in order to access their info card even after death
 
+Also add the "Contents" tab to graves, otherwise you cannot select the contained body.
+
 Because it always annoyed me I cannot access the "Records" tab after pawns' death...
 
 ---
