@@ -1,9 +1,7 @@
 ﻿using RimWorld;
 using System.Collections.Generic;
-using UnityEngine;
 using Verse;
 using HarmonyLib;
-using System;
 
 namespace CorpseInfo
 {

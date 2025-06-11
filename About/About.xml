@@ -7,6 +7,7 @@
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>Add a link to deceased pawn in order to access their info card even after death. Also adds the "Contents" tab to grave.</description>
 	<modDependencies>
