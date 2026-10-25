@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Add "Contents" tab to grave, if it does not exists -->
+<Patch>
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ThingDef[defName="Grave"]/inspectorTabs/li[text()="ITab_ContentsCasket"]</xpath>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>/Defs/ThingDef[defName="Grave"]/inspectorTabs</xpath>
+			<value>
+				<li>ITab_ContentsCasket</li>
+			</value>
+		</nomatch>
+	</Operation>
+</Patch>
+
+
+ 
